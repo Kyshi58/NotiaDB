@@ -1,0 +1,3 @@
+dist/*
+notiadb.egg-info/*
+.idea/*
